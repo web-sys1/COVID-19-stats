@@ -367,19 +367,19 @@ var covid19_dataset_latest_totals = {
     },
     "BHR": {
       "back_1week": {
-        "confirmed": 36936,
+        "confirmed": 37316,
         "deaths": 129,
-        "recovered": 32965
+        "recovered": 33455
       },
       "back_2week": {
-        "confirmed": 33476,
+        "confirmed": 34078,
         "deaths": 111,
-        "recovered": 29099
+        "recovered": 29753
       },
       "latest": {
-        "confirmed": 39482,
+        "confirmed": 39921,
         "deaths": 141,
-        "recovered": 36110
+        "recovered": 36531
       }
     },
     "BHS": {
@@ -653,12 +653,12 @@ var covid19_dataset_latest_totals = {
       "back_2week": {
         "confirmed": 33016,
         "deaths": 1968,
-        "recovered": 29600
+        "recovered": 29800
       },
       "latest": {
         "confirmed": 34609,
         "deaths": 1978,
-        "recovered": 30900
+        "recovered": 31000
       }
     },
     "CHL": {
@@ -1182,19 +1182,19 @@ var covid19_dataset_latest_totals = {
     },
     "EGY": {
       "back_1week": {
-        "confirmed": 88402,
-        "deaths": 4352,
-        "recovered": 28924
+        "confirmed": 89078,
+        "deaths": 4399,
+        "recovered": 29473
       },
       "back_2week": {
-        "confirmed": 83001,
-        "deaths": 3935,
-        "recovered": 24975
+        "confirmed": 83930,
+        "deaths": 4008,
+        "recovered": 25544
       },
       "latest": {
-        "confirmed": 92482,
-        "deaths": 4652,
-        "recovered": 34838
+        "confirmed": 92947,
+        "deaths": 4691,
+        "recovered": 35959
       }
     },
     "ERI": {
@@ -3375,13 +3375,13 @@ var covid19_dataset_latest_totals = {
     "USA": {
       "back_1week": {
         "confirmed": 3800795,
-        "deaths": 134714,
+        "deaths": 133090,
         "recovered": 1159688,
         "tested": 46235211
       },
       "back_2week": {
         "confirmed": 3339873,
-        "deaths": 129537,
+        "deaths": 127824,
         "recovered": 1031622,
         "tested": 40773630
       },
