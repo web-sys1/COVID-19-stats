@@ -2801,14 +2801,14 @@ var covid19_dataset_latest_totals = {
         "recovered": 2968
       },
       "back_2week": {
-        "confirmed": 4931,
-        "deaths": 102,
-        "recovered": 2267
+        "confirmed": 4715,
+        "deaths": 101,
+        "recovered": 2227
       },
       "latest": {
-        "confirmed": 6917,
-        "deaths": 169,
-        "recovered": 3753
+        "confirmed": 7137,
+        "deaths": 177,
+        "recovered": 3874
       }
     },
     "ROU": {
