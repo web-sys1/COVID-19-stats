@@ -212,12 +212,12 @@
           "tested": 66544
         },
         "VIC": {
-          "confirmed": 9998,
+          "confirmed": 10577,
           "current_hospitalized": 4,
           "current_icu": 5,
-          "deaths": 105,
+          "deaths": 113,
           "recovered": 1992,
-          "tested": 1574600
+          "tested": 1608400
         },
         "WA": {
           "confirmed": 659,
@@ -2915,17 +2915,17 @@
     },
     "SGP": {
       "back_1week": {
-        "confirmed": 49098,
+        "confirmed": 49375,
         "deaths": 27,
         "recovered": 45015
       },
       "back_2week": {
-        "confirmed": 47126,
+        "confirmed": 47453,
         "deaths": 27,
         "recovered": 43256
       },
       "latest": {
-        "confirmed": 51809,
+        "confirmed": 52205,
         "deaths": 27,
         "recovered": 46308
       }
