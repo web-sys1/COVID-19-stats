@@ -2704,9 +2704,9 @@ var covid19_dataset_latest_totals = {
         "recovered": 21748
       },
       "latest": {
-        "confirmed": 85486,
-        "deaths": 1962,
-        "recovered": 26996
+        "confirmed": 93354,
+        "deaths": 2023,
+        "recovered": 65178
       }
     },
     "PNG": {
