@@ -3375,13 +3375,13 @@
     "USA": {
       "back_1week": {
         "confirmed": 4381549,
-        "deaths": 142651,
+        "deaths": 142629,
         "recovered": 1389946,
         "tested": 53479996
       },
       "back_2week": {
         "confirmed": 3932982,
-        "deaths": 135239,
+        "deaths": 135172,
         "recovered": 1210406,
         "tested": 47777683
       },
