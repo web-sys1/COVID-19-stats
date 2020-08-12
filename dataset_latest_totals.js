@@ -350,19 +350,19 @@ var covid19_dataset_latest_totals = {
     },
     "BGR": {
       "back_1week": {
-        "confirmed": 11955,
-        "deaths": 388,
-        "recovered": 6420
+        "confirmed": 12159,
+        "deaths": 404,
+        "recovered": 6684
       },
       "back_2week": {
-        "confirmed": 10427,
-        "deaths": 340,
-        "recovered": 5355
+        "confirmed": 10621,
+        "deaths": 347,
+        "recovered": 5585
       },
       "latest": {
-        "confirmed": 13396,
-        "deaths": 447,
-        "recovered": 7772
+        "confirmed": 13512,
+        "deaths": 459,
+        "recovered": 7980
       }
     },
     "BHR": {
@@ -1609,19 +1609,19 @@ var covid19_dataset_latest_totals = {
     },
     "GTM": {
       "back_1week": {
-        "confirmed": 51306,
-        "deaths": 1995,
-        "recovered": 38416
+        "confirmed": 51542,
+        "deaths": 2013,
+        "recovered": 39346
       },
       "back_2week": {
-        "confirmed": 45053,
-        "deaths": 1734,
-        "recovered": 31612
+        "confirmed": 45309,
+        "deaths": 1761,
+        "recovered": 32455
       },
       "latest": {
-        "confirmed": 56605,
-        "deaths": 2211,
-        "recovered": 44598
+        "confirmed": 56987,
+        "deaths": 2222,
+        "recovered": 45589
       }
     },
     "GUY": {
@@ -2493,19 +2493,19 @@ var covid19_dataset_latest_totals = {
     },
     "NGA": {
       "back_1week": {
-        "confirmed": 43841,
-        "deaths": 888,
-        "recovered": 20308
+        "confirmed": 44129,
+        "deaths": 896,
+        "recovered": 20663
       },
       "back_2week": {
-        "confirmed": 40532,
-        "deaths": 858,
-        "recovered": 17374
+        "confirmed": 41180,
+        "deaths": 860,
+        "recovered": 18203
       },
       "latest": {
-        "confirmed": 46577,
-        "deaths": 945,
-        "recovered": 33186
+        "confirmed": 46867,
+        "deaths": 950,
+        "recovered": 33346
       }
     },
     "NIC": {
