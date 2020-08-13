@@ -35,9 +35,9 @@
     "subseries": {
       "Victoria": {
         "live": {
-          "confirmed": 15646,
+          "confirmed": 15924,
           "date": "2020-08-12",
-          "deaths": 267,
+          "deaths": 275,
           "recovered": 7271
         }
       }
@@ -337,9 +337,9 @@
   },
   "Cameroon": {
     "live": {
-      "confirmed": 18213,
+      "confirmed": 18263,
       "date": "2020-08-12",
-      "deaths": 398,
+      "deaths": 401,
       "recovered": 15320
     }
   },
@@ -347,10 +347,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 42206,
+          "confirmed": 42219,
           "date": "2020-08-12",
           "deaths": 2833,
-          "recovered": 38283
+          "recovered": 38288
         }
       },
       "Quebec": {
@@ -497,18 +497,18 @@
   },
   "Ecuador": {
     "live": {
-      "confirmed": 95563,
+      "confirmed": 97110,
       "date": "2020-08-12",
-      "deaths": 5951,
-      "recovered": 78610
+      "deaths": 5984,
+      "recovered": 78887
     }
   },
   "Egypt": {
     "live": {
-      "confirmed": 95834,
+      "confirmed": 95963,
       "date": "2020-08-12",
-      "deaths": 5059,
-      "recovered": 54888
+      "deaths": 5085,
+      "recovered": 55901
     }
   },
   "El Salvador": {
@@ -581,10 +581,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 57966,
+      "confirmed": 59089,
       "date": "2020-08-12",
-      "deaths": 2233,
-      "recovered": 46442
+      "deaths": 2267,
+      "recovered": 47394
     }
   },
   "Honduras": {
@@ -1033,10 +1033,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 47290,
+      "confirmed": 47743,
       "date": "2020-08-12",
       "deaths": 956,
-      "recovered": 33609
+      "recovered": 33943
     }
   },
   "Oman": {
@@ -1085,10 +1085,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 76464,
+      "confirmed": 77377,
       "date": "2020-08-12",
-      "deaths": 1680,
-      "recovered": 50665
+      "deaths": 1703,
+      "recovered": 51597
     }
   },
   "Peru": {
@@ -1591,9 +1591,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 313567,
+          "confirmed": 313973,
           "date": "2020-08-12",
-          "deaths": 5959,
+          "deaths": 5974,
           "recovered": 0
         }
       },
