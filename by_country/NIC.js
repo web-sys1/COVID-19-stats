@@ -413,6 +413,7 @@ var covid19_dataset_country_nic = {
       3902,
       3902,
       4115,
+      4115,
       4115
     ],
     "deaths": [
@@ -618,6 +619,7 @@ var covid19_dataset_country_nic = {
       123,
       123,
       123,
+      128,
       128,
       128
     ],
