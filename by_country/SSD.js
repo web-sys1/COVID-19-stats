@@ -825,6 +825,7 @@ var covid19_dataset_country_ssd = {
       1175,
       1175,
       1175,
+      1175,
       1175
     ]
   }

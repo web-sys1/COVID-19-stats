@@ -825,6 +825,7 @@ var covid19_dataset_country_che = {
       32300,
       32400,
       32400,
+      32700,
       32700
     ]
   }

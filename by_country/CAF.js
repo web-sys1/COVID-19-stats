@@ -825,6 +825,7 @@ var covid19_dataset_country_caf = {
       1721,
       1721,
       1723,
+      1728,
       1728
     ]
   }

@@ -825,7 +825,8 @@ var covid19_dataset_country_yem = {
       913,
       915,
       915,
-      937
+      937,
+      949
     ]
   }
 };

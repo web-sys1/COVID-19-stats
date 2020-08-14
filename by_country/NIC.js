@@ -825,6 +825,7 @@ var covid19_dataset_country_nic = {
       2913,
       2913,
       2913,
+      2913,
       2913
     ]
   }

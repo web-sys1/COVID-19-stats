@@ -825,6 +825,7 @@ var covid19_dataset_country_nor = {
       8857,
       8857,
       8857,
+      8857,
       8857
     ]
   }

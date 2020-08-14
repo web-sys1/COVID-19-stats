@@ -825,6 +825,7 @@ var covid19_dataset_country_cmr = {
       15320,
       15320,
       15320,
+      15320,
       15320
     ]
   }

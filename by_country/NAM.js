@@ -825,7 +825,8 @@ var covid19_dataset_country_nam = {
       704,
       715,
       715,
-      835
+      835,
+      848
     ]
   }
 };

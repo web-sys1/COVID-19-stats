@@ -825,6 +825,7 @@ var covid19_dataset_country_kaz = {
       72523,
       73702,
       74677,
+      76756,
       76756
     ]
   }

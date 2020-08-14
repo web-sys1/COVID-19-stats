@@ -825,6 +825,7 @@ var covid19_dataset_country_png = {
       53,
       53,
       71,
+      78,
       78
     ]
   }

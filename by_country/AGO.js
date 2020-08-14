@@ -825,6 +825,7 @@ var covid19_dataset_country_ago = {
       567,
       569,
       575,
+      577,
       577
     ]
   }

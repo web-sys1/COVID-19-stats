@@ -825,6 +825,7 @@ var covid19_dataset_country_cog = {
       1589,
       1589,
       1625,
+      1625,
       1625
     ]
   }

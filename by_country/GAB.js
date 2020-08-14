@@ -825,6 +825,7 @@ var covid19_dataset_country_gab = {
       5704,
       5823,
       5823,
+      5920,
       5920
     ]
   }

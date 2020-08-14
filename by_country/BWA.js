@@ -825,7 +825,8 @@ var covid19_dataset_country_bwa = {
       63,
       80,
       80,
-      80
+      80,
+      120
     ]
   }
 };

@@ -825,6 +825,7 @@ var covid19_dataset_country_blz = {
       32,
       32,
       32,
+      32,
       32
     ]
   }

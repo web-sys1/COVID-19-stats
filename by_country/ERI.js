@@ -825,6 +825,7 @@ var covid19_dataset_country_eri = {
       245,
       248,
       248,
+      248,
       248
     ]
   }

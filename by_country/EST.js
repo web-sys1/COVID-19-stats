@@ -825,6 +825,7 @@ var covid19_dataset_country_est = {
       1961,
       1962,
       1968,
+      1975,
       1975
     ]
   }

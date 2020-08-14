@@ -825,7 +825,8 @@ var covid19_dataset_country_btn = {
       96,
       96,
       97,
-      97
+      97,
+      100
     ]
   }
 };

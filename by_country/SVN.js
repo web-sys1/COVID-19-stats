@@ -825,6 +825,7 @@ var covid19_dataset_country_svn = {
       1927,
       1960,
       1960,
+      1960,
       1960
     ]
   }

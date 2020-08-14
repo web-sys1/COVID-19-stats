@@ -825,6 +825,7 @@ var covid19_dataset_country_lie = {
       85,
       85,
       87,
+      87,
       87
     ]
   }

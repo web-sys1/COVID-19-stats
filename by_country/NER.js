@@ -825,6 +825,7 @@ var covid19_dataset_country_ner = {
       1057,
       1062,
       1065,
+      1075,
       1075
     ]
   }

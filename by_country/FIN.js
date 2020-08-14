@@ -825,6 +825,7 @@ var covid19_dataset_country_fin = {
       6980,
       6980,
       6980,
+      7050,
       7050
     ]
   }

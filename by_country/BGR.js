@@ -825,6 +825,7 @@ var covid19_dataset_country_bgr = {
       7772,
       7980,
       8154,
+      8479,
       8479
     ]
   }

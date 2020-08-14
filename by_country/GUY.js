@@ -825,7 +825,8 @@ var covid19_dataset_country_guy = {
       189,
       189,
       189,
-      191
+      191,
+      202
     ]
   }
 };

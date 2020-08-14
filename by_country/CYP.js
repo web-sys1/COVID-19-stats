@@ -825,6 +825,7 @@ var covid19_dataset_country_cyp = {
       870,
       870,
       870,
+      870,
       870
     ]
   }

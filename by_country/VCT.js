@@ -825,7 +825,8 @@ var covid19_dataset_country_vct = {
       52,
       52,
       52,
-      52
+      52,
+      55
     ]
   }
 };

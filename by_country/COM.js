@@ -825,6 +825,7 @@ var covid19_dataset_country_com = {
       369,
       369,
       379,
+      379,
       379
     ]
   }

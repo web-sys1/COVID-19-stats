@@ -825,6 +825,7 @@ var covid19_dataset_country_hti = {
       4982,
       4982,
       4982,
+      5123,
       5123
     ]
   }

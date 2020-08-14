@@ -825,6 +825,7 @@ var covid19_dataset_country_mng = {
       263,
       263,
       269,
+      269,
       269
     ]
   }

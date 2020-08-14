@@ -825,7 +825,8 @@ var covid19_dataset_country_lby = {
       701,
       724,
       740,
-      778
+      778,
+      816
     ]
   }
 };

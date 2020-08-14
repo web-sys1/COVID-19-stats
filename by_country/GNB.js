@@ -825,6 +825,7 @@ var covid19_dataset_country_gnb = {
       944,
       944,
       1015,
+      1015,
       1015
     ]
   }
