@@ -35,9 +35,9 @@
     "subseries": {
       "Victoria": {
         "live": {
-          "confirmed": 15863,
+          "confirmed": 16235,
           "date": "2020-08-13",
-          "deaths": 275,
+          "deaths": 289,
           "recovered": 7493
         }
       }
@@ -347,10 +347,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 42297,
+          "confirmed": 42313,
           "date": "2020-08-13",
-          "deaths": 2833,
-          "recovered": 38380
+          "deaths": 2834,
+          "recovered": 38396
         }
       },
       "Quebec": {
@@ -473,10 +473,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 19286,
+      "confirmed": 19401,
       "date": "2020-08-13",
       "deaths": 391,
-      "recovered": 13572
+      "recovered": 13574
     }
   },
   "Denmark": {
@@ -505,10 +505,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 95963,
+      "confirmed": 96108,
       "date": "2020-08-13",
-      "deaths": 5085,
-      "recovered": 55901
+      "deaths": 5107,
+      "recovered": 56890
     }
   },
   "El Salvador": {
@@ -581,10 +581,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 59089,
+      "confirmed": 60284,
       "date": "2020-08-13",
-      "deaths": 2267,
-      "recovered": 47394
+      "deaths": 2296,
+      "recovered": 48305
     }
   },
   "Honduras": {
@@ -1041,10 +1041,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 47743,
+      "confirmed": 48116,
       "date": "2020-08-13",
-      "deaths": 956,
-      "recovered": 33943
+      "deaths": 966,
+      "recovered": 34309
     }
   },
   "Oman": {
@@ -1599,9 +1599,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 316853,
+          "confirmed": 317960,
           "date": "2020-08-13",
-          "deaths": 6126,
+          "deaths": 6165,
           "recovered": 0
         }
       },
@@ -1623,9 +1623,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 16941,
+          "confirmed": 17118,
           "date": "2020-08-13",
-          "deaths": 684,
+          "deaths": 686,
           "recovered": 0
         }
       },
