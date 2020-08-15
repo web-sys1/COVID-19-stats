@@ -17,9 +17,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 276072,
+      "confirmed": 282437,
       "date": "2020-08-14",
-      "deaths": 5428,
+      "deaths": 5527,
       "recovered": 199005
     }
   },
@@ -35,9 +35,9 @@
     "subseries": {
       "Victoria": {
         "live": {
-          "confirmed": 16234,
+          "confirmed": 16537,
           "date": "2020-08-14",
-          "deaths": 289,
+          "deaths": 293,
           "recovered": 7842
         }
       }
@@ -347,10 +347,10 @@
     "subseries": {
       "Ontario": {
         "live": {
-          "confirmed": 42380,
+          "confirmed": 42412,
           "date": "2020-08-14",
           "deaths": 2835,
-          "recovered": 38463
+          "recovered": 38486
         }
       },
       "Quebec": {
@@ -445,14 +445,6 @@
           "recovered": 80857
         }
       },
-      "Cundinamarca": {
-        "live": {
-          "confirmed": 13483,
-          "date": "2020-08-14",
-          "deaths": 378,
-          "recovered": 7492
-        }
-      },
       "Valle del Cauca": {
         "live": {
           "confirmed": 35435,
@@ -481,9 +473,9 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 19574,
+      "confirmed": 19693,
       "date": "2020-08-14",
-      "deaths": 393,
+      "deaths": 394,
       "recovered": 13731
     }
   },
@@ -589,10 +581,10 @@
   },
   "Guatemala": {
     "live": {
-      "confirmed": 60284,
+      "confirmed": 61428,
       "date": "2020-08-14",
-      "deaths": 2296,
-      "recovered": 48305
+      "deaths": 2341,
+      "recovered": 49355
     }
   },
   "Honduras": {
@@ -1049,10 +1041,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 48116,
+      "confirmed": 48445,
       "date": "2020-08-14",
-      "deaths": 966,
-      "recovered": 34309
+      "deaths": 973,
+      "recovered": 35998
     }
   },
   "Oman": {
@@ -1447,9 +1439,9 @@
       },
       "California": {
         "live": {
-          "confirmed": 448894,
+          "confirmed": 464658,
           "date": "2020-08-14",
-          "deaths": 8849,
+          "deaths": 9100,
           "recovered": 0
         }
       },
@@ -1553,7 +1545,7 @@
         "live": {
           "confirmed": 113488,
           "date": "2020-08-14",
-          "deaths": 9655,
+          "deaths": 9659,
           "recovered": 0
         }
       },
@@ -1607,9 +1599,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 321609,
+          "confirmed": 321885,
           "date": "2020-08-14",
-          "deaths": 6335,
+          "deaths": 6346,
           "recovered": 0
         }
       },
@@ -1631,9 +1623,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 17118,
+          "confirmed": 17308,
           "date": "2020-08-14",
-          "deaths": 686,
+          "deaths": 689,
           "recovered": 0
         }
       },
@@ -1693,10 +1685,10 @@
   },
   "Venezuela": {
     "live": {
-      "confirmed": 30369,
+      "confirmed": 31381,
       "date": "2020-08-14",
-      "deaths": 259,
-      "recovered": 21385
+      "deaths": 266,
+      "recovered": 21580
     }
   },
   "West Bank and Gaza": {
