@@ -17,9 +17,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 289100,
+      "confirmed": 294569,
       "date": "2020-08-16",
-      "deaths": 5657,
+      "deaths": 5703,
       "recovered": 211702
     }
   },
@@ -35,9 +35,9 @@
     "subseries": {
       "Victoria": {
         "live": {
-          "confirmed": 16764,
+          "confirmed": 17046,
           "date": "2020-08-16",
-          "deaths": 309,
+          "deaths": 334,
           "recovered": 8570
         }
       }
@@ -329,10 +329,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 14333,
+      "confirmed": 14365,
       "date": "2020-08-16",
-      "deaths": 495,
-      "recovered": 9161
+      "deaths": 498,
+      "recovered": 9186
     }
   },
   "Cameroon": {
@@ -473,7 +473,7 @@
   },
   "Cote d'Ivoire": {
     "live": {
-      "confirmed": 17031,
+      "confirmed": 17026,
       "date": "2020-08-16",
       "deaths": 110,
       "recovered": 13947
@@ -481,10 +481,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 19956,
+      "confirmed": 20012,
       "date": "2020-08-16",
       "deaths": 397,
-      "recovered": 13769
+      "recovered": 13799
     }
   },
   "Denmark": {
@@ -497,10 +497,10 @@
   },
   "Dominican Republic": {
     "live": {
-      "confirmed": 85545,
+      "confirmed": 86309,
       "date": "2020-08-16",
-      "deaths": 1438,
-      "recovered": 51356
+      "deaths": 1453,
+      "recovered": 52905
     }
   },
   "Ecuador": {
@@ -513,10 +513,10 @@
   },
   "Egypt": {
     "live": {
-      "confirmed": 96336,
+      "confirmed": 96475,
       "date": "2020-08-16",
-      "deaths": 5141,
-      "recovered": 58835
+      "deaths": 5160,
+      "recovered": 59743
     }
   },
   "El Salvador": {
@@ -1049,10 +1049,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 48770,
+      "confirmed": 49068,
       "date": "2020-08-16",
-      "deaths": 974,
-      "recovered": 36290
+      "deaths": 975,
+      "recovered": 36497
     }
   },
   "Oman": {
@@ -1607,9 +1607,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 333842,
+          "confirmed": 334144,
           "date": "2020-08-16",
-          "deaths": 6513,
+          "deaths": 6521,
           "recovered": 0
         }
       },
