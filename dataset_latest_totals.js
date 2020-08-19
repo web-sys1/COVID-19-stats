@@ -367,19 +367,19 @@ var covid19_dataset_latest_totals = {
     },
     "BHR": {
       "back_1week": {
-        "confirmed": 44011,
+        "confirmed": 44397,
         "deaths": 163,
-        "recovered": 40967
+        "recovered": 41209
       },
       "back_2week": {
-        "confirmed": 41536,
+        "confirmed": 41835,
         "deaths": 150,
-        "recovered": 38666
+        "recovered": 39007
       },
       "latest": {
-        "confirmed": 46835,
+        "confirmed": 47185,
         "deaths": 173,
-        "recovered": 43128
+        "recovered": 43529
       }
     },
     "BHS": {
@@ -1131,19 +1131,19 @@ var covid19_dataset_latest_totals = {
     },
     "DOM": {
       "back_1week": {
-        "confirmed": 79732,
-        "deaths": 1309,
-        "recovered": 43744
+        "confirmed": 80499,
+        "deaths": 1328,
+        "recovered": 44910
       },
       "back_2week": {
-        "confirmed": 72243,
-        "deaths": 1178,
-        "recovered": 38244
+        "confirmed": 73117,
+        "deaths": 1183,
+        "recovered": 38824
       },
       "latest": {
-        "confirmed": 86309,
-        "deaths": 1453,
-        "recovered": 52905
+        "confirmed": 86737,
+        "deaths": 1481,
+        "recovered": 54108
       }
     },
     "DZA": {
@@ -1609,19 +1609,19 @@ var covid19_dataset_latest_totals = {
     },
     "GTM": {
       "back_1week": {
-        "confirmed": 56605,
-        "deaths": 2211,
-        "recovered": 44598
+        "confirmed": 56987,
+        "deaths": 2222,
+        "recovered": 45589
       },
       "back_2week": {
-        "confirmed": 51306,
-        "deaths": 1995,
-        "recovered": 38416
+        "confirmed": 51542,
+        "deaths": 2013,
+        "recovered": 39346
       },
       "latest": {
-        "confirmed": 62562,
-        "deaths": 2379,
-        "recovered": 50692
+        "confirmed": 62944,
+        "deaths": 2389,
+        "recovered": 51530
       }
     },
     "GUY": {
@@ -2493,19 +2493,19 @@ var covid19_dataset_latest_totals = {
     },
     "NGA": {
       "back_1week": {
-        "confirmed": 46577,
-        "deaths": 945,
-        "recovered": 33186
+        "confirmed": 46867,
+        "deaths": 950,
+        "recovered": 33346
       },
       "back_2week": {
-        "confirmed": 43841,
-        "deaths": 888,
-        "recovered": 20308
+        "confirmed": 44129,
+        "deaths": 896,
+        "recovered": 20663
       },
       "latest": {
-        "confirmed": 49068,
-        "deaths": 975,
-        "recovered": 36497
+        "confirmed": 49485,
+        "deaths": 977,
+        "recovered": 36834
       }
     },
     "NIC": {
