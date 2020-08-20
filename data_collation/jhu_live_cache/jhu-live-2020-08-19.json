@@ -17,9 +17,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 305966,
+      "confirmed": 312659,
       "date": "2020-08-19",
-      "deaths": 6114,
+      "deaths": 6330,
       "recovered": 228725
     }
   },
@@ -35,9 +35,9 @@
     "subseries": {
       "Victoria": {
         "live": {
-          "confirmed": 17446,
+          "confirmed": 17686,
           "date": "2020-08-19",
-          "deaths": 363,
+          "deaths": 376,
           "recovered": 9729
         }
       }
@@ -61,10 +61,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 47581,
+      "confirmed": 47950,
       "date": "2020-08-19",
       "deaths": 178,
-      "recovered": 43921
+      "recovered": 44278
     }
   },
   "Bangladesh": {
@@ -329,10 +329,10 @@
   },
   "Bulgaria": {
     "live": {
-      "confirmed": 14669,
+      "confirmed": 14820,
       "date": "2020-08-19",
-      "deaths": 519,
-      "recovered": 9699
+      "deaths": 527,
+      "recovered": 9931
     }
   },
   "Cameroon": {
@@ -489,7 +489,7 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 20686,
+      "confirmed": 20798,
       "date": "2020-08-19",
       "deaths": 404,
       "recovered": 15615
@@ -897,10 +897,10 @@
   },
   "Kyrgyzstan": {
     "live": {
-      "confirmed": 42146,
+      "confirmed": 42325,
       "date": "2020-08-19",
       "deaths": 1498,
-      "recovered": 34855
+      "recovered": 35197
     }
   },
   "Mexico": {
@@ -1615,9 +1615,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 343855,
+          "confirmed": 344330,
           "date": "2020-08-19",
-          "deaths": 6829,
+          "deaths": 6843,
           "recovered": 0
         }
       },
