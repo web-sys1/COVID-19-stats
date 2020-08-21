@@ -87,17 +87,17 @@ var covid19_dataset_latest_totals = {
     },
     "ARG": {
       "back_1week": {
-        "confirmed": 260911,
+        "confirmed": 268574,
         "deaths": 5213,
         "recovered": 187283
       },
       "back_2week": {
-        "confirmed": 213535,
+        "confirmed": 220682,
         "deaths": 4106,
         "recovered": 96948
       },
       "latest": {
-        "confirmed": 305966,
+        "confirmed": 312659,
         "deaths": 6330,
         "recovered": 228725
       }
@@ -367,19 +367,19 @@ var covid19_dataset_latest_totals = {
     },
     "BHR": {
       "back_1week": {
-        "confirmed": 44804,
+        "confirmed": 45264,
         "deaths": 166,
-        "recovered": 41504
+        "recovered": 41836
       },
       "back_2week": {
-        "confirmed": 42132,
+        "confirmed": 42514,
         "deaths": 154,
-        "recovered": 39335
+        "recovered": 39576
       },
       "latest": {
-        "confirmed": 47581,
+        "confirmed": 47950,
         "deaths": 178,
-        "recovered": 43921
+        "recovered": 44278
       }
     },
     "BHS": {
@@ -1182,19 +1182,19 @@ var covid19_dataset_latest_totals = {
     },
     "EGY": {
       "back_1week": {
-        "confirmed": 95834,
-        "deaths": 5059,
-        "recovered": 54888
+        "confirmed": 95963,
+        "deaths": 5085,
+        "recovered": 55901
       },
       "back_2week": {
-        "confirmed": 94752,
-        "deaths": 4912,
-        "recovered": 45569
+        "confirmed": 94875,
+        "deaths": 4930,
+        "recovered": 47182
       },
       "latest": {
-        "confirmed": 96753,
-        "deaths": 5184,
-        "recovered": 61562
+        "confirmed": 96914,
+        "deaths": 5197,
+        "recovered": 62553
       }
     },
     "ERI": {
@@ -2608,7 +2608,7 @@ var covid19_dataset_latest_totals = {
         "tested": 387435
       },
       "back_2week": {
-        "confirmed": 1506,
+        "confirmed": 1507,
         "current_hospitalized": 2,
         "current_icu": 0,
         "deaths": 21,
