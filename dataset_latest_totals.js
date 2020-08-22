@@ -217,7 +217,7 @@ var covid19_dataset_latest_totals = {
           "current_icu": 5,
           "deaths": 385,
           "recovered": 1992,
-          "tested": 2028909
+          "tested": 2049235
         },
         "WA": {
           "confirmed": 659,
