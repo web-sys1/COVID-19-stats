@@ -17,9 +17,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 329043,
+      "confirmed": 336802,
       "date": "2020-08-22",
-      "deaths": 6795,
+      "deaths": 6848,
       "recovered": 245781
     }
   },
@@ -489,7 +489,7 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 21680,
+      "confirmed": 21790,
       "date": "2020-08-22",
       "deaths": 411,
       "recovered": 16087
@@ -1057,10 +1057,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 51304,
+      "confirmed": 51905,
       "date": "2020-08-22",
-      "deaths": 996,
-      "recovered": 37885
+      "deaths": 997,
+      "recovered": 38767
     }
   },
   "Oman": {
@@ -1109,10 +1109,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 84392,
+      "confirmed": 85480,
       "date": "2020-08-22",
-      "deaths": 1859,
-      "recovered": 59722
+      "deaths": 1878,
+      "recovered": 60528
     }
   },
   "Peru": {
@@ -1449,7 +1449,7 @@
         "live": {
           "confirmed": 520284,
           "date": "2020-08-22",
-          "deaths": 10152,
+          "deaths": 10154,
           "recovered": 0
         }
       },
