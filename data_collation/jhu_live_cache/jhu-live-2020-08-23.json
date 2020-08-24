@@ -17,9 +17,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 336802,
+      "confirmed": 342154,
       "date": "2020-08-23",
-      "deaths": 6947,
+      "deaths": 6985,
       "recovered": 251400
     }
   },
@@ -35,9 +35,9 @@
     "subseries": {
       "Victoria": {
         "live": {
-          "confirmed": 18231,
+          "confirmed": 18347,
           "date": "2020-08-23",
-          "deaths": 415,
+          "deaths": 430,
           "recovered": 13708
         }
       }
@@ -61,10 +61,10 @@
   },
   "Bahrain": {
     "live": {
-      "confirmed": 49038,
+      "confirmed": 49330,
       "date": "2020-08-23",
       "deaths": 184,
-      "recovered": 45589
+      "recovered": 45981
     }
   },
   "Bangladesh": {
@@ -489,10 +489,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 21867,
+      "confirmed": 21923,
       "date": "2020-08-23",
       "deaths": 412,
-      "recovered": 16119
+      "recovered": 16125
     }
   },
   "Denmark": {
@@ -1057,10 +1057,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 51905,
+      "confirmed": 52227,
       "date": "2020-08-23",
-      "deaths": 997,
-      "recovered": 38767
+      "deaths": 1002,
+      "recovered": 38945
     }
   },
   "Oman": {
@@ -1109,10 +1109,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 85480,
+      "confirmed": 86900,
       "date": "2020-08-23",
-      "deaths": 1878,
-      "recovered": 60528
+      "deaths": 1892,
+      "recovered": 61420
     }
   },
   "Peru": {
@@ -1447,7 +1447,7 @@
       },
       "California": {
         "live": {
-          "confirmed": 524263,
+          "confirmed": 524598,
           "date": "2020-08-23",
           "deaths": 10173,
           "recovered": 0
@@ -1607,7 +1607,7 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 355964,
+          "confirmed": 356060,
           "date": "2020-08-23",
           "deaths": 7250,
           "recovered": 0
@@ -1631,9 +1631,9 @@
       },
       "Washington": {
         "live": {
-          "confirmed": 18546,
+          "confirmed": 18662,
           "date": "2020-08-23",
-          "deaths": 712,
+          "deaths": 713,
           "recovered": 0
         }
       },
