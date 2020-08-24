@@ -3386,10 +3386,10 @@
         "tested": 60710202
       },
       "latest": {
-        "confirmed": 5608255,
-        "deaths": 167886,
-        "recovered": 1984406,
-        "tested": 70690400
+        "confirmed": 5608408,
+        "deaths": 167891,
+        "recovered": 1984415,
+        "tested": 70694672
       },
       "states": {
         "AK": {
@@ -3652,11 +3652,11 @@
           "tested": 1540553
         },
         "RI": {
-          "confirmed": 21022,
-          "deaths": 1030,
-          "hospitalized": 2438,
-          "recovered": 2031,
-          "tested": 245854
+          "confirmed": 21175,
+          "deaths": 1035,
+          "hospitalized": 2455,
+          "recovered": 2040,
+          "tested": 250126
         },
         "SC": {
           "confirmed": 111295,
