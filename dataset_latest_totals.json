@@ -367,19 +367,19 @@
     },
     "BHR": {
       "back_1week": {
-        "confirmed": 47581,
+        "confirmed": 47950,
         "deaths": 178,
-        "recovered": 43921
+        "recovered": 44278
       },
       "back_2week": {
-        "confirmed": 44804,
+        "confirmed": 45264,
         "deaths": 166,
-        "recovered": 41504
+        "recovered": 41836
       },
       "latest": {
-        "confirmed": 50076,
+        "confirmed": 50393,
         "deaths": 186,
-        "recovered": 46673
+        "recovered": 47049
       }
     },
     "BHS": {
@@ -864,9 +864,9 @@
     },
     "CIV": {
       "back_1week": {
-        "confirmed": 17150,
-        "deaths": 110,
-        "recovered": 14183
+        "confirmed": 17232,
+        "deaths": 111,
+        "recovered": 14422
       },
       "back_2week": {
         "confirmed": 16847,
@@ -874,20 +874,20 @@
         "recovered": 13321
       },
       "latest": {
-        "confirmed": 17562,
+        "confirmed": 17603,
         "deaths": 114,
-        "recovered": 15908
+        "recovered": 15941
       }
     },
     "CMR": {
       "back_1week": {
-        "confirmed": 18599,
+        "confirmed": 18624,
         "deaths": 406,
         "recovered": 16540
       },
       "back_2week": {
-        "confirmed": 18213,
-        "deaths": 398,
+        "confirmed": 18263,
+        "deaths": 401,
         "recovered": 15320
       },
       "latest": {
@@ -1182,19 +1182,19 @@
     },
     "EGY": {
       "back_1week": {
-        "confirmed": 96753,
-        "deaths": 5184,
-        "recovered": 61562
+        "confirmed": 96914,
+        "deaths": 5197,
+        "recovered": 62553
       },
       "back_2week": {
-        "confirmed": 95834,
-        "deaths": 5059,
-        "recovered": 54888
+        "confirmed": 95963,
+        "deaths": 5085,
+        "recovered": 55901
       },
       "latest": {
-        "confirmed": 97619,
-        "deaths": 5298,
-        "recovered": 67717
+        "confirmed": 97825,
+        "deaths": 5317,
+        "recovered": 68713
       }
     },
     "ERI": {
