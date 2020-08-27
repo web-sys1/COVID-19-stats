@@ -2949,19 +2949,19 @@
     },
     "SLV": {
       "back_1week": {
-        "confirmed": 23462,
-        "deaths": 625,
-        "recovered": 11179
+        "confirmed": 23717,
+        "deaths": 633,
+        "recovered": 11388
       },
       "back_2week": {
-        "confirmed": 21269,
-        "deaths": 570,
-        "recovered": 9875
+        "confirmed": 21644,
+        "deaths": 577,
+        "recovered": 10056
       },
       "latest": {
-        "confirmed": 24986,
-        "deaths": 678,
-        "recovered": 12717
+        "confirmed": 25140,
+        "deaths": 687,
+        "recovered": 13046
       }
     },
     "SMR": {
