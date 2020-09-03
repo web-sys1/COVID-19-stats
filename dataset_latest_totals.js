@@ -1779,19 +1779,19 @@ var covid19_dataset_latest_totals = {
     },
     "IRQ": {
       "back_1week": {
-        "confirmed": 211947,
-        "deaths": 6596,
-        "recovered": 153761
+        "confirmed": 215784,
+        "deaths": 6668,
+        "recovered": 157215
       },
       "back_2week": {
-        "confirmed": 184709,
-        "deaths": 6036,
-        "recovered": 131840
+        "confirmed": 188802,
+        "deaths": 6121,
+        "recovered": 134369
       },
       "latest": {
-        "confirmed": 238338,
-        "deaths": 7123,
-        "recovered": 180473
+        "confirmed": 242284,
+        "deaths": 7201,
+        "recovered": 184205
       }
     },
     "ISL": {
@@ -3387,7 +3387,7 @@ var covid19_dataset_latest_totals = {
       },
       "latest": {
         "confirmed": 6005818,
-        "deaths": 176159,
+        "deaths": 176172,
         "recovered": 2201135,
         "tested": 78044904
       },
@@ -3598,7 +3598,7 @@ var covid19_dataset_latest_totals = {
         },
         "NJ": {
           "confirmed": 192290,
-          "deaths": 15937,
+          "deaths": 15950,
           "hospitalized": 22667,
           "recovered": 33949,
           "tested": 2859048
