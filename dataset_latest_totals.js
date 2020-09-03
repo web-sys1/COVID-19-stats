@@ -2,9 +2,9 @@ var covid19_dataset_latest_totals = {
   "countries": {
     "AFG": {
       "back_1week": {
-        "confirmed": 38070,
+        "confirmed": 38113,
         "deaths": 1397,
-        "recovered": 28440
+        "recovered": 29042
       },
       "back_2week": {
         "confirmed": 37599,
@@ -12,9 +12,9 @@ var covid19_dataset_latest_totals = {
         "recovered": 27166
       },
       "latest": {
-        "confirmed": 38196,
+        "confirmed": 38243,
         "deaths": 1406,
-        "recovered": 29231
+        "recovered": 29315
       }
     },
     "AGO": {
@@ -104,19 +104,19 @@ var covid19_dataset_latest_totals = {
     },
     "ARM": {
       "back_1week": {
-        "confirmed": 42936,
-        "deaths": 858,
-        "recovered": 36475
+        "confirmed": 43067,
+        "deaths": 861,
+        "recovered": 36726
       },
       "back_2week": {
-        "confirmed": 41846,
-        "deaths": 832,
-        "recovered": 34982
+        "confirmed": 42056,
+        "deaths": 833,
+        "recovered": 35226
       },
       "latest": {
-        "confirmed": 43878,
-        "deaths": 881,
-        "recovered": 38356
+        "confirmed": 44075,
+        "deaths": 884,
+        "recovered": 38631
       }
     },
     "ATG": {
@@ -143,7 +143,7 @@ var covid19_dataset_latest_totals = {
         "current_icu": 5,
         "deaths": 551,
         "recovered": 4525,
-        "tested": 5387021
+        "tested": 5400501
       },
       "back_2week": {
         "confirmed": 23797,
@@ -151,7 +151,7 @@ var covid19_dataset_latest_totals = {
         "current_icu": 5,
         "deaths": 452,
         "recovered": 4515,
-        "tested": 5201227
+        "tested": 5248086
       },
       "latest": {
         "confirmed": 25586,
@@ -159,7 +159,7 @@ var covid19_dataset_latest_totals = {
         "current_icu": 5,
         "deaths": 665,
         "recovered": 4536,
-        "tested": 5502862
+        "tested": 5516774
       },
       "states": {
         "ACT": {
@@ -217,7 +217,7 @@ var covid19_dataset_latest_totals = {
           "current_icu": 5,
           "deaths": 576,
           "recovered": 1992,
-          "tested": 2235040
+          "tested": 2248952
         },
         "WA": {
           "confirmed": 659,
