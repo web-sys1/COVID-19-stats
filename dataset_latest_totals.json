@@ -864,19 +864,19 @@
     },
     "CIV": {
       "back_1week": {
-        "confirmed": 17603,
+        "confirmed": 17702,
         "deaths": 114,
-        "recovered": 15941
+        "recovered": 16139
       },
       "back_2week": {
-        "confirmed": 17232,
+        "confirmed": 17249,
         "deaths": 111,
-        "recovered": 14422
+        "recovered": 14611
       },
       "latest": {
-        "confirmed": 18161,
+        "confirmed": 18208,
         "deaths": 117,
-        "recovered": 16933
+        "recovered": 17045
       }
     },
     "CMR": {
@@ -3375,19 +3375,19 @@
     "USA": {
       "back_1week": {
         "confirmed": 5761276,
-        "deaths": 171173,
+        "deaths": 171176,
         "recovered": 2083200,
         "tested": 73653678
       },
       "back_2week": {
         "confirmed": 5475608,
-        "deaths": 164584,
+        "deaths": 164587,
         "recovered": 1923899,
         "tested": 68878021
       },
       "latest": {
         "confirmed": 6036490,
-        "deaths": 177196,
+        "deaths": 177199,
         "recovered": 2230077,
         "tested": 78692149
       },
@@ -3598,7 +3598,7 @@
         },
         "NJ": {
           "confirmed": 192595,
-          "deaths": 15961,
+          "deaths": 15964,
           "hospitalized": 22707,
           "recovered": 33991,
           "tested": 2902267
