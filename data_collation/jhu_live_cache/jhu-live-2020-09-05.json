@@ -101,10 +101,10 @@
   },
   "Bosnia and Herzegovina": {
     "live": {
-      "confirmed": 21142,
+      "confirmed": 21439,
       "date": "2020-09-05",
-      "deaths": 639,
-      "recovered": 14476
+      "deaths": 651,
+      "recovered": 14636
     }
   },
   "Brazil": {
@@ -497,10 +497,10 @@
   },
   "Denmark": {
     "live": {
-      "confirmed": 17547,
+      "confirmed": 17736,
       "date": "2020-09-05",
       "deaths": 627,
-      "recovered": 15586
+      "recovered": 15671
     }
   },
   "Dominican Republic": {
@@ -905,10 +905,10 @@
   },
   "Kuwait": {
     "live": {
-      "confirmed": 88243,
+      "confirmed": 88963,
       "date": "2020-09-05",
-      "deaths": 537,
-      "recovered": 79417
+      "deaths": 540,
+      "recovered": 79903
     }
   },
   "Kyrgyzstan": {
@@ -1063,9 +1063,9 @@
     "subseries": {
       "Zuid-Holland": {
         "live": {
-          "confirmed": 20134,
+          "confirmed": 20330,
           "date": "2020-09-05",
-          "deaths": 1347,
+          "deaths": 1350,
           "recovered": 0
         }
       }
