@@ -17,9 +17,9 @@
   },
   "Argentina": {
     "live": {
-      "confirmed": 461882,
+      "confirmed": 471806,
       "date": "2020-09-05",
-      "deaths": 9685,
+      "deaths": 9739,
       "recovered": 340381
     }
   },
@@ -35,9 +35,9 @@
     "subseries": {
       "Victoria": {
         "live": {
-          "confirmed": 19479,
+          "confirmed": 19542,
           "date": "2020-09-05",
-          "deaths": 661,
+          "deaths": 666,
           "recovered": 16784
         }
       }
@@ -489,10 +489,10 @@
   },
   "Czechia": {
     "live": {
-      "confirmed": 27560,
+      "confirmed": 27752,
       "date": "2020-09-05",
       "deaths": 431,
-      "recovered": 19033
+      "recovered": 19039
     }
   },
   "Denmark": {
@@ -1073,10 +1073,10 @@
   },
   "Nigeria": {
     "live": {
-      "confirmed": 54743,
+      "confirmed": 54905,
       "date": "2020-09-05",
-      "deaths": 1051,
-      "recovered": 42816
+      "deaths": 1054,
+      "recovered": 42922
     }
   },
   "Oman": {
@@ -1117,10 +1117,10 @@
   },
   "Panama": {
     "live": {
-      "confirmed": 95596,
+      "confirmed": 96305,
       "date": "2020-09-05",
-      "deaths": 2063,
-      "recovered": 68742
+      "deaths": 2075,
+      "recovered": 69223
     }
   },
   "Paraguay": {
@@ -1615,9 +1615,9 @@
       },
       "Texas": {
         "live": {
-          "confirmed": 390511,
+          "confirmed": 390588,
           "date": "2020-09-05",
-          "deaths": 8408,
+          "deaths": 8409,
           "recovered": 0
         }
       },
